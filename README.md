@@ -1,6 +1,6 @@
 # Graph Conditioned Sparse-Attention for Improved Source Code Understanding
 
-This is the official repository for the paper "Graph Conditioned Sparse-Attention for Improved Source Code Understanding".
+This is the official repository for the paper "[Graph Conditioned Sparse-Attention for Improved Source Code Understanding](https://arxiv.org/abs/2112.00663)".
 
 ## Run
 
